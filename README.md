@@ -26,7 +26,7 @@ npm install @metaplex-foundation/mpl-bubblegum
 [See typedoc documentation](https://mpl-bubblegum-js-docs.vercel.app/).
 
 ### Rust
-```sh
+```sh⁶
 cargo add mpl-bubblegum
 ```
 
